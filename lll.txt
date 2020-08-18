@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		#caja{
+			width: 200px;
+			height: 200px;
+			background: #de16d8;
+			border: solid 3px #8A0686;
+		}
+		#caja:hover{
+			transform: scale(3);
+			transition: 1s;
+		}
+	</style>
+</head>
+<body>
+	<article id="caja">
+		
+	</article>
+</body>
+</html>
